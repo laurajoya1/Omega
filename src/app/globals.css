@@ -10,7 +10,7 @@
     --card-foreground: 210 100% 10%; /* Azul oscuro para texto en tarjetas */
     --border: 210 100% 80%; /* Azul suave para bordes */
     --button-bg: 210 100% 60%; /* Azul medio para botones */
-    --button-text: 210 100% 95%; /* Azul claro para texto en botones */
+    --button-text: 0 0% 0%; /* Negro para texto en botones */
     --header-bg: 210 100% 40%; /* Azul más oscuro para el encabezado */
     --footer-bg: 210 100% 30%; /* Azul aún más oscuro para el pie de página */
     --link: 210 100% 60%; /* Azul para enlaces */
